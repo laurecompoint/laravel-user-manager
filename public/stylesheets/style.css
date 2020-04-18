@@ -1,0 +1,43 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+.link{
+  position: absolute;
+  top: 1px;
+  color: #310A66;
+}
+.color{
+  color: #310A66;
+
+}
+.link-new{
+  width: 30%;
+  float: left;
+  height: 90px;
+  margin-left: 990px;
+
+}
+#icon{
+ cursor: pointer;
+  
+}
+button{
+  border: none;
+
+  
+}
+#iconpencil{
+  font-size: 25px;
+  color: green;
+}
+.icon-newuser{
+  width: 40%;
+}
+.margine{
+ margin-top: 90px ;
+}
