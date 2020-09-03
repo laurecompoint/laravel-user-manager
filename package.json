@@ -6,7 +6,7 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "@hapi/hapi": "^18.4.0",
+    "@hapi/hapi": "^19.1.1",
     "bcrypt": "^3.0.7",
     "bootstrap": "^3.4.1",
     "cookie-parser": "~1.4.4",
